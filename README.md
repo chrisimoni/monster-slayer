@@ -20,7 +20,7 @@ Clone this repo to your computer, extract it and lunch the index.html on your fa
 
 ## Acknowledgments
 
-* [Maximilian Schwarzmüller] (https://mschwarzmueller.com/) is an awesome instructor with a great teaching skils, i learned Vuejs from his Udemy's Vuejs tutorial
+* [Maximilian Schwarzmüller](https://mschwarzmueller.com/) - is an awesome instructor with a great teaching skils, i learned Vuejs from his Udemy's Vuejs tutorial
  
 
 
